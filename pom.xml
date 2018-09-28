@@ -7,5 +7,7 @@
   <modules>
   	<module>Proxy</module>
   	<module>Factory</module>
+  	<module>Single</module>
+  	<module>Strategy</module>
   </modules>
 </project>
