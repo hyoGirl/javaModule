@@ -9,5 +9,6 @@
   	<module>Factory</module>
   	<module>Single</module>
   	<module>Strategy</module>
+  	<module>Template</module>
   </modules>
 </project>
