@@ -10,5 +10,6 @@
   	<module>Single</module>
   	<module>Strategy</module>
   	<module>Template</module>
+  	<module>Adapt</module>
   </modules>
 </project>

@@ -8,13 +8,11 @@ public class SingleInnerClass {
 	
 	//2:这个地方必须私有，才能保证别人不能修改 static 保证了全局唯一
 	private static class InnerClass {
-		
 		private static final SingleInnerClass INSTANCE=new SingleInnerClass();
 		
 	}
 	
 	public static final SingleInnerClass getInstance() {
-		
 		return InnerClass.INSTANCE;
 	}
 	
