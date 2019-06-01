@@ -1,26 +1,22 @@
 
 
 
-#1：Proxy
+# 1：Proxy
 基于java的动态代理实现
 
 
-#2：Template
+# 2：Template
 
 模板模式
-
   主要側重點：
-
 - 1：使用final來限定抽象类中方法执行顺序
 - 2：分离可变和不可变部分，让子类有选择的去继承重写方法
 - 3：使用Protected 限定了算法的具体类实现只对子类开放
 
 
-#3：Decorator
+# 3：Decorator
 
 装饰者模式
-
-
 - 1： 被装饰者   是存在的一个抽象。可以是abstract类也可以是一个interface。也可以称为抽象被装饰类
 - 2： 真实被装饰类，也是针对与component的具体实现。
 - 3： Decorator   装饰类  真实装饰类，具体的呈现对真实被装饰类的功能进行强化。
