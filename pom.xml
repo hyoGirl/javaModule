@@ -11,5 +11,6 @@
   	<module>Strategy</module>
   	<module>Template</module>
   	<module>Adapt</module>
+      <module>Decorator</module>
   </modules>
 </project>
