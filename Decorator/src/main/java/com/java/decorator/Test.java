@@ -14,11 +14,7 @@ public class Test {
 
         Component concreteComponent=new ConcreteComponent();
         concreteComponent.name();
-
-
         RedDecorator redDecorator = new RedDecorator(new BlackDecorator(concreteComponent));
-
-
         redDecorator.name();
 
     }
