@@ -5,7 +5,7 @@ public class WebConfig extends WebMvcConfigurerAdapter {
 	@Override
 	public void method1() {
 		super.method1();
-		System.out.println("Hello 客户只需要一个方法");
+		System.out.println("Hello 客户只需要一个方法1");
 	}
 	
 	public static void main(String[] args) {
