@@ -12,5 +12,6 @@
   	<module>Template</module>
   	<module>Adapt</module>
       <module>Decorator</module>
+      <module>Observe</module>
   </modules>
 </project>
